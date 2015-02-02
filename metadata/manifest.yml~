@@ -33,3 +33,5 @@
             Backend:       ""
             Options:       { websocket: false }
 
+    Source-Url:https://github.com/plse/httpd-example-cartridge.git
+
